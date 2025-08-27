@@ -1,0 +1,155 @@
+{
+  "tcp_alloc": {
+    "allowed": 6,
+    "claimed": 2,
+    "desired": 2
+  },
+  "tunnels": [
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "being-ob.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "b52a63cd-f706-4ac1-815b-6aee9e1577bb",
+          "ip_hostname": "29.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 14783,
+          "port_start": 14782,
+          "region": "global",
+          "static_ip4": "147.185.221.29",
+          "static_ip6": "2602:fbaf:0:1::1d",
+          "tunnel_ip": "2602:fbaf:0:1::1d"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2025-06-13T02:20:11.650513Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "7f0847aa-f4d8-479b-8112-a7bb5d41d783",
+      "name": "unnamed",
+      "origin": {
+        "data": {
+          "agent_id": "c40c9e33-dc95-41da-a780-168c4d8d84b2",
+          "agent_name": "from-key-melo",
+          "local_ip": "127.0.0.1",
+          "local_port": 14782
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "both",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": null
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "august-dem.gl.joinmc.link",
+          "assigned_srv": "august-dem.gl.joinmc.link",
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "4cf99363-0aa3-4673-8437-0b98e7b9d3ea",
+          "ip_hostname": "29.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 23233,
+          "port_start": 23232,
+          "region": "global",
+          "static_ip4": "147.185.221.29",
+          "static_ip6": "2602:fbaf:0:1::1d",
+          "tunnel_ip": "2602:fbaf:0:1::1d"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2025-06-13T02:20:54.946082Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "1324a312-becc-4c12-be73-2c2e9d8f94fd",
+      "name": "Minecraft Java",
+      "origin": {
+        "data": {
+          "agent_id": "c40c9e33-dc95-41da-a780-168c4d8d84b2",
+          "agent_name": "from-key-melo",
+          "local_ip": "127.0.0.1",
+          "local_port": 25565
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "tcp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-java"
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "without-civilian.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "a283afd0-d6f6-4f8c-ae61-739644d3bec6",
+          "ip_hostname": "29.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 2029,
+          "port_start": 2028,
+          "region": "global",
+          "static_ip4": "147.185.221.29",
+          "static_ip6": "2602:fbaf:0:1::1d",
+          "tunnel_ip": "2602:fbaf:0:1::1d"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2025-06-13T05:50:18.164219Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "45ae2494-5661-47d8-9e1c-3297c3a38a0c",
+      "name": "unnamed",
+      "origin": {
+        "data": {
+          "agent_id": "c40c9e33-dc95-41da-a780-168c4d8d84b2",
+          "agent_name": "from-key-melo",
+          "local_ip": "127.0.0.1",
+          "local_port": 2028
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": null
+    }
+  ],
+  "udp_alloc": {
+    "allowed": 6,
+    "claimed": 2,
+    "desired": 2
+  }
+}
