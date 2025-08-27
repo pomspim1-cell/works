@@ -1114,3 +1114,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [27Aug2025 08:28:04.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
 [27Aug2025 08:28:15.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Impossible Material]
 [27Aug2025 08:29:14.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[27Aug2025 08:43:06.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
+[27Aug2025 08:54:28.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> time s d
+[27Aug2025 08:54:33.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
