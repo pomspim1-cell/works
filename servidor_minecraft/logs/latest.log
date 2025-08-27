@@ -1101,3 +1101,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [27Aug2025 07:08:00.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Melosito_Neo a server operator
 [27Aug2025 07:08:11.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
 [27Aug2025 07:09:06.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
+[27Aug2025 07:38:56.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
+[27Aug2025 07:53:45.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
