@@ -1117,3 +1117,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [27Aug2025 08:43:06.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
 [27Aug2025 08:54:28.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> time s d
 [27Aug2025 08:54:33.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
+[27Aug2025 09:08:58.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo was kicked for floating too long!
+[27Aug2025 09:08:58.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo lost connection: Flying is not enabled on this server
+[27Aug2025 09:08:58.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo left the game
+[27Aug2025 09:08:58.144] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

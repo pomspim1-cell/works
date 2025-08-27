@@ -10465,3 +10465,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [27Aug2025 08:59:38.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Aug2025 09:04:38.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Aug2025 09:04:38.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 09:08:58.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo was kicked for floating too long!
+[27Aug2025 09:08:58.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo lost connection: Flying is not enabled on this server
+[27Aug2025 09:08:58.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo left the game
+[27Aug2025 09:08:58.091] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-6,-70), load=false, success=true
+[27Aug2025 09:08:58.091] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-12,-63), load=false, success=true
+[27Aug2025 09:08:58.091] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-37,-79), load=false, success=true
+[27Aug2025 09:08:58.091] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-11,-63), load=false, success=true
+[27Aug2025 09:08:58.091] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-6,-69), load=false, success=true
+[27Aug2025 09:08:58.091] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-5,-70), load=false, success=true
+[27Aug2025 09:08:58.091] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-5,-69), load=false, success=true
+[27Aug2025 09:08:58.091] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-36,-79), load=false, success=true
+[27Aug2025 09:08:58.091] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-12,-64), load=false, success=true
+[27Aug2025 09:08:58.144] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Aug2025 09:09:38.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 09:09:38.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 09:14:38.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 09:14:38.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
