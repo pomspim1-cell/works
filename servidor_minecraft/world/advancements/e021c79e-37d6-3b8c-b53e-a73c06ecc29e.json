@@ -7803,79 +7803,85 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 03:22:38 +0000"
+      "log_spam_fixer": "2025-08-28 03:32:38 +0000"
     },
     "done": false
   },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-08-28 01:04:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-08-28 03:29:51 +0000"
     },
     "done": true
   },
@@ -7924,6 +7930,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-08-28 01:21:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-08-28 03:32:01 +0000"
     },
     "done": true
   },
@@ -7978,6 +7990,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-28 01:21:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-08-28 03:29:51 +0000"
     },
     "done": true
   },
