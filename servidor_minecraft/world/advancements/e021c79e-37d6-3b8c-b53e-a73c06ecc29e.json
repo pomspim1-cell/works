@@ -7822,6 +7822,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-08-28 01:04:44 +0000"
@@ -7888,6 +7894,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-08-28 05:39:02 +0000"
@@ -7942,6 +7954,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/ingot_tank": {
     "criteria": {
       "has_item": "2025-08-28 04:18:38 +0000"
@@ -7972,6 +7990,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
       "has_item": "2025-08-28 03:55:35 +0000"
@@ -7984,6 +8014,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/smeltery/seared/lantern": {
     "criteria": {
       "has_item": "2025-08-28 04:18:38 +0000"
@@ -7993,6 +8029,12 @@
   "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2025-08-28 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
     },
     "done": true
   },
@@ -8038,6 +8080,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-08-28 04:56:19 +0000"
@@ -8080,6 +8128,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-08-28 01:21:15 +0000"
@@ -8095,6 +8155,12 @@
   "iammusicplayer:recipes/misc/boombox": {
     "criteria": {
       "has_jukebox": "2025-08-28 04:56:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
     },
     "done": true
   },
@@ -8119,6 +8185,12 @@
   "create:rose_quartz": {
     "criteria": {
       "0": "2025-08-28 03:52:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
     },
     "done": true
   },
@@ -8188,6 +8260,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/smeltery/seared/melter": {
     "criteria": {
       "has_item": "2025-08-28 04:18:38 +0000"
@@ -8221,6 +8299,12 @@
   "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2025-08-28 03:55:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
     },
     "done": true
   },
@@ -8266,6 +8350,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-08-28 03:20:07 +0000"
@@ -8284,9 +8374,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-08-28 03:52:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
     },
     "done": true
   },
@@ -8320,6 +8422,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2025-08-28 03:54:14 +0000"
@@ -8332,6 +8440,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-08-28 06:36:27 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/tools/building/flint_and_brick": {
     "criteria": {
       "has_seared": "2025-08-28 04:18:38 +0000"
@@ -8341,6 +8455,12 @@
   "iammusicplayer:recipes/misc/cassette_deck": {
     "criteria": {
       "has_jukebox": "2025-08-28 04:56:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-08-28 06:35:44 +0000"
     },
     "done": true
   },
