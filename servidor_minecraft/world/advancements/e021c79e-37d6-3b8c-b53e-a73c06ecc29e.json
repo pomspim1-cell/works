@@ -7804,12 +7804,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-08-28 05:52:40 +0000"
-    },
-    "done": false
-  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
     "criteria": {
       "has_item": "2025-08-28 04:18:38 +0000"
