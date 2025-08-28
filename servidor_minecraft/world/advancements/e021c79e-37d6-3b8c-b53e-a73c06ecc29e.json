@@ -7840,6 +7840,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-08-28 06:56:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-08-28 04:22:08 +0000"
@@ -8119,6 +8125,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
     "criteria": {
       "has_item": "2025-08-28 03:55:35 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-08-28 06:51:15 +0000"
     },
     "done": true
   },

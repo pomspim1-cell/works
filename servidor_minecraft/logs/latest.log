@@ -1221,3 +1221,7 @@ java.lang.NullPointerException: Cannot invoke "java.util.List.size()" because "l
 [28Aug2025 06:32:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
 [28Aug2025 06:32:30.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Removed every effect from Melosito_Neo]
 [28Aug2025 06:36:27.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Magic Writing]
+[28Aug2025 06:51:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Tapping the Mantle]
+[28Aug2025 06:56:19.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/88278, l='ServerLevel[world]', x=-575.77, y=108.00, z=-1254.78] died, message: 'Unemployed was slain by Melosito_Neo'
+[28Aug2025 06:56:19.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Neighborhood Brawl]
+[28Aug2025 06:56:24.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/88280, l='ServerLevel[world]', x=-567.03, y=108.00, z=-1253.04] died, message: 'Unemployed was slain by Melosito_Neo'
