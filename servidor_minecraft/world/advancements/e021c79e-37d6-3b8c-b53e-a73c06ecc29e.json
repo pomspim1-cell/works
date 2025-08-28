@@ -7870,6 +7870,12 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-08-28 05:01:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/chain_from_zinc": {
     "criteria": {
       "has_item": "2025-08-28 04:22:08 +0000"
@@ -8020,6 +8026,18 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-08-28 04:56:19 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-08-28 04:56:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-28 01:04:43 +0000"
@@ -8059,6 +8077,12 @@
   "tconstruct:recipes/redstone/smeltery/seared/fuel_tank": {
     "criteria": {
       "has_item": "2025-08-28 04:18:38 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2025-08-28 04:56:33 +0000"
     },
     "done": true
   },
@@ -8299,6 +8323,12 @@
   "tconstruct:recipes/tools/tools/building/flint_and_brick": {
     "criteria": {
       "has_seared": "2025-08-28 04:18:38 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/cassette_deck": {
+    "criteria": {
+      "has_jukebox": "2025-08-28 04:56:33 +0000"
     },
     "done": true
   },
