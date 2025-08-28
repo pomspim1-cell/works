@@ -1181,3 +1181,4 @@ java.lang.NullPointerException: Cannot invoke "java.util.List.size()" because "l
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [28Aug2025 00:54:27.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=101, z=-1024} BlockPos{x=-173, y=101, z=-1024}
 [28Aug2025 00:55:58.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
+[28Aug2025 01:17:56.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Eternal Closure]
