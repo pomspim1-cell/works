@@ -1225,3 +1225,8 @@ java.lang.NullPointerException: Cannot invoke "java.util.List.size()" because "l
 [28Aug2025 06:56:19.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/88278, l='ServerLevel[world]', x=-575.77, y=108.00, z=-1254.78] died, message: 'Unemployed was slain by Melosito_Neo'
 [28Aug2025 06:56:19.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Neighborhood Brawl]
 [28Aug2025 06:56:24.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/88280, l='ServerLevel[world]', x=-567.03, y=108.00, z=-1253.04] died, message: 'Unemployed was slain by Melosito_Neo'
+[28Aug2025 07:03:12.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[28Aug2025 07:03:18.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[28Aug2025 07:06:14.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Enchanter]
+[28Aug2025 07:07:16.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo lost connection: Disconnected
+[28Aug2025 07:07:16.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo left the game
