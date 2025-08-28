@@ -7819,6 +7819,12 @@
     },
     "done": true
   },
+  "evilcraft:spirit_cooker": {
+    "criteria": {
+      "criteria_0": "2025-08-28 01:55:45 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/crafting_card": {
     "criteria": {
       "crafter": "2025-08-28 01:21:46 +0000"
