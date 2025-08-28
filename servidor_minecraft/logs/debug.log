@@ -10381,3 +10381,7 @@ java.lang.NullPointerException: Cannot invoke "java.util.List.size()" because "l
 [28Aug2025 07:07:16.414] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-12,-64), load=false, success=true
 [28Aug2025 07:07:40.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Aug2025 07:07:40.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 07:12:40.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 07:12:40.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 07:17:40.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 07:17:40.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
