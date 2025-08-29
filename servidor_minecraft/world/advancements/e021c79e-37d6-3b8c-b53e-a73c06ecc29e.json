@@ -8522,12 +8522,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-08-29 03:07:35 +0000"
-    },
-    "done": false
-  },
   "tconstruct:recipes/misc/common/puny_smelting": {
     "criteria": {
       "has_item": "2025-08-29 02:15:09 +0000"
@@ -8612,6 +8606,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-08-29 03:15:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-08-29 02:35:42 +0000"
@@ -8624,9 +8624,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-29 03:15:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-08-29 01:23:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-08-29 03:15:19 +0000"
     },
     "done": true
   },
@@ -8681,6 +8693,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-29 02:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-29 03:15:19 +0000"
     },
     "done": true
   },
