@@ -8522,7 +8522,61 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-29 01:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-08-29 01:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-08-29 01:23:39 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-08-29 01:46:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-08-29 01:52:05 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-08-29 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/ghast_tear": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-08-29 01:53:25 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/puny_smelting": {
+    "criteria": {
+      "has_item": "2025-08-29 02:15:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-08-29 02:15:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
     "criteria": {
       "has_item": "2025-08-29 02:15:09 +0000"
     },
@@ -8531,6 +8585,54 @@
   "tconstruct:world/earth_island": {
     "criteria": {
       "found_island": "2025-08-29 02:32:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-08-29 02:35:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-08-29 02:35:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-29 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/building_blocks/crystal_block": {
+    "criteria": {
+      "has_crystal_shard": "2025-08-29 02:39:45 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/building_blocks/crystal_tiles": {
+    "criteria": {
+      "has_crystal_shard": "2025-08-29 02:39:45 +0000"
+    },
+    "done": true
+  },
+  "phantasm:get_crystal": {
+    "criteria": {
+      "has_crystal": "2025-08-29 02:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-08-29 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-29 02:45:28 +0000"
     },
     "done": true
   },
@@ -8546,15 +8648,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-29 02:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-29 02:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-08-29 02:51:55 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/smart_chute": {
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
-      "has_item": "2025-08-29 01:52:05 +0000"
+      "has_prismarine_shard": "2025-08-29 02:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-29 02:51:55 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/prismarine_shard": {
+    "criteria": {
+      "has_guardian_spike": "2025-08-29 02:52:34 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/prismarine_crystals": {
+    "criteria": {
+      "has_guardian_spike": "2025-08-29 02:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-08-29 02:54:41 +0000"
     },
     "done": true
   },
@@ -8564,51 +8702,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
     "criteria": {
-      "has_red_dye": "2025-08-29 05:17:36 +0000"
+      "has_item": "2025-08-29 03:15:19 +0000"
     },
     "done": true
   },
-  "create:crushing_wheel": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "0": "2025-08-29 01:46:47 +0000"
+      "has_glowstone_dust": "2025-08-29 03:15:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
     "criteria": {
-      "has_light_blue_dye": "2025-08-29 05:08:07 +0000"
+      "has_item": "2025-08-29 03:15:19 +0000"
     },
     "done": true
   },
-  "phantasm:recipes/building_blocks/crystal_block": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_crystal_shard": "2025-08-29 02:39:45 +0000"
+      "has_glowstone_dust": "2025-08-29 03:15:19 +0000"
+    },
+    "done": true
+  },
+  "mekanism:modification_station": {
+    "criteria": {
+      "modification_station": "2025-08-29 03:24:39 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-08-29 05:05:14 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
-    "criteria": {
-      "has_catalyzing_gland": "2025-08-29 01:53:25 +0000"
-    },
-    "done": true
-  },
-  "phantasm:recipes/building_blocks/crystal_tiles": {
-    "criteria": {
-      "has_crystal_shard": "2025-08-29 02:39:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-08-29 02:43:24 +0000"
     },
     "done": true
   },
@@ -8624,57 +8750,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-29 05:17:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-29 05:17:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-08-29 05:05:14 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/prismarine_shard": {
-    "criteria": {
-      "has_guardian_spike": "2025-08-29 02:52:34 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/almost_unkillable": {
-    "criteria": {
-      "coded_trigger": "2025-08-29 02:35:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_red_dye": "2025-08-29 05:17:36 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
-    "criteria": {
-      "has_item": "2025-08-29 03:15:19 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-08-29 02:35:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-08-29 01:21:13 +0000"
     },
     "done": true
   },
@@ -8684,15 +8762,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "ae2:recipes/misc/network/cables/smart_white": {
     "criteria": {
-      "has_glowstone_dust": "2025-08-29 03:15:19 +0000"
+      "has_dyes/black": "2025-08-29 05:05:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "minecraft:recipes/decorations/white_candle": {
     "criteria": {
-      "has_coal_ore": "2025-08-29 01:23:39 +0000"
+      "has_white_dye": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2025-08-29 05:08:07 +0000"
     },
     "done": true
   },
@@ -8708,99 +8816,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
-    "criteria": {
-      "has_item": "2025-08-29 03:15:19 +0000"
-    },
-    "done": true
-  },
-  "phantasm:get_crystal": {
-    "criteria": {
-      "has_crystal": "2025-08-29 02:39:45 +0000"
-    },
-    "done": true
-  },
-  "mekanism:modification_station": {
-    "criteria": {
-      "modification_station": "2025-08-29 03:24:39 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_white": {
-    "criteria": {
-      "has_dyes/black": "2025-08-29 05:05:14 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
-    "criteria": {
-      "has_item": "2025-08-29 02:15:09 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_red": {
-    "criteria": {
-      "has_dyes/black": "2025-08-29 05:17:36 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/ghast_tear": {
-    "criteria": {
-      "has_catalyzing_gland": "2025-08-29 01:53:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2025-08-29 05:05:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-08-29 01:23:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-08-29 02:51:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-29 05:17:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-08-29 02:51:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_white_dye": "2025-08-29 05:05:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_light_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-08-29 05:08:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2025-08-29 05:17:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-29 05:05:14 +0000"
     },
     "done": true
   },
@@ -8810,75 +8828,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2025-08-29 05:17:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-08-29 05:08:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
-      "has_carrot": "2025-08-29 02:45:28 +0000"
+      "has_red_dye": "2025-08-29 05:17:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
+  "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
-      "has_needed_dye": "2025-08-29 05:05:14 +0000"
+      "has_needed_dye": "2025-08-29 05:17:36 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
+  "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
-      "has_item": "2025-08-29 02:15:09 +0000"
+      "has_needed_dye": "2025-08-29 05:17:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_cod": "2025-08-29 02:47:37 +0000"
+      "has_red_dye": "2025-08-29 05:17:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+  "ae2:recipes/misc/network/cables/smart_red": {
     "criteria": {
-      "has_white_dye": "2025-08-29 05:05:14 +0000"
+      "has_dyes/black": "2025-08-29 05:17:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
-      "has_glowstone_dust": "2025-08-29 03:15:19 +0000"
+      "has_needed_dye": "2025-08-29 05:17:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/misc/purple_dye": {
     "criteria": {
-      "has_prismarine_crystals": "2025-08-29 02:54:41 +0000"
+      "has_red_dye": "2025-08-29 05:17:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/decorations/red_candle": {
     "criteria": {
-      "has_cod": "2025-08-29 02:47:37 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-08-29 02:35:37 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/prismarine_crystals": {
-    "criteria": {
-      "has_guardian_spike": "2025-08-29 02:52:34 +0000"
+      "has_red_dye": "2025-08-29 05:17:36 +0000"
     },
     "done": true
   },
