@@ -83,6 +83,7 @@
       "minecraft:forest": "2025-08-20 07:23:41 +0000",
       "minecraft:desert": "2025-08-22 03:20:49 +0000",
       "minecraft:jungle": "2025-08-20 21:14:25 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-29 02:34:30 +0000",
       "minecraft:deep_dark": "2025-08-21 02:35:09 +0000",
       "minecraft:windswept_gravelly_hills": "2025-08-20 23:05:06 +0000",
       "minecraft:savanna": "2025-08-20 07:33:59 +0000",
@@ -210,6 +211,7 @@
       "minecraft:pillager": "2025-08-23 09:11:29 +0000",
       "minecraft:skeleton": "2025-08-20 23:40:55 +0000",
       "minecraft:ghast": "2025-08-26 04:44:26 +0000",
+      "minecraft:guardian": "2025-08-29 02:51:54 +0000",
       "minecraft:spider": "2025-08-20 22:39:00 +0000",
       "minecraft:creeper": "2025-08-20 23:40:15 +0000",
       "minecraft:wither": "2025-08-26 05:04:24 +0000",
@@ -8520,9 +8522,39 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-29 03:07:35 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/misc/common/puny_smelting": {
     "criteria": {
       "has_item": "2025-08-29 02:15:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2025-08-29 02:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-08-29 02:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-29 02:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-29 02:51:55 +0000"
     },
     "done": true
   },
@@ -8532,15 +8564,57 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-08-29 03:01:42 +0000"
+    },
+    "done": true
+  },
   "create:crushing_wheel": {
     "criteria": {
       "0": "2025-08-29 01:46:47 +0000"
     },
     "done": true
   },
+  "phantasm:recipes/building_blocks/crystal_block": {
+    "criteria": {
+      "has_crystal_shard": "2025-08-29 02:39:45 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
     "criteria": {
       "has_catalyzing_gland": "2025-08-29 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/building_blocks/crystal_tiles": {
+    "criteria": {
+      "has_crystal_shard": "2025-08-29 02:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-08-29 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/prismarine_shard": {
+    "criteria": {
+      "has_guardian_spike": "2025-08-29 02:52:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-08-29 02:35:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-29 02:35:42 +0000"
     },
     "done": true
   },
@@ -8553,6 +8627,12 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-08-29 01:23:39 +0000"
+    },
+    "done": true
+  },
+  "phantasm:get_crystal": {
+    "criteria": {
+      "has_crystal": "2025-08-29 02:39:45 +0000"
     },
     "done": true
   },
@@ -8574,9 +8654,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-29 02:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-29 02:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-29 02:45:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
     "criteria": {
       "has_item": "2025-08-29 02:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-29 02:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-08-29 02:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-29 02:47:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-08-29 02:35:37 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/prismarine_crystals": {
+    "criteria": {
+      "has_guardian_spike": "2025-08-29 02:52:34 +0000"
     },
     "done": true
   },

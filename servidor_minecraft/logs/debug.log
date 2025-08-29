@@ -10490,3 +10490,60 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [29Aug2025 02:22:33.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Aug2025 02:27:33.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Aug2025 02:27:33.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:29:20.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[29Aug2025 02:29:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[29Aug2025 02:32:29.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Earthslime Island]
+[29Aug2025 02:32:33.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 02:32:33.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:35:09.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Removed every effect from Melosito_Neo]
+[29Aug2025 02:35:35.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has completed the challenge [Almost Unkillable]
+[29Aug2025 02:35:35.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo drowned
+[29Aug2025 02:35:35.613] [Server thread/DEBUG] [tombstone/]: A new grave of the player Melosito_Neo was created at position [x:679, y:40, z:865, dim:minecraft:overworld]
+[29Aug2025 02:35:35.619] [Server thread/INFO] [tombstone/]: The player Melosito_Neo has successfully been saved
+[29Aug2025 02:35:37.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [The Most Useful Key]
+[29Aug2025 02:35:42.673] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[29Aug2025 02:35:42.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [A Fast Comeback]
+[29Aug2025 02:37:33.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 02:37:33.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:37:45.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -709.4960660239062,0.5,-1945.908304959969
+[29Aug2025 02:37:55.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was killed
+[29Aug2025 02:37:55.210] [Server thread/DEBUG] [tombstone/]: A new grave of the player Melosito_Neo was created at position [x:-72, y:64, z:-1099, dim:minecraft:overworld]
+[29Aug2025 02:37:55.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Killed Melosito_Neo]
+[29Aug2025 02:37:55.211] [Server thread/INFO] [tombstone/]: The player Melosito_Neo has successfully been saved
+[29Aug2025 02:39:45.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Extra Shiny!]
+[29Aug2025 02:42:33.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 02:42:33.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:43:47.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[29Aug2025 02:47:35.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 02:47:35.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:47:36.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Fishy Business]
+[29Aug2025 02:52:20.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=694, y=24, z=862} BlockPos{x=694, y=25, z=862}
+[29Aug2025 02:52:20.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=694, y=24, z=862} BlockPos{x=694, y=25, z=862}
+[29Aug2025 02:52:35.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 02:52:35.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:53:52.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[29Aug2025 02:54:04.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[29Aug2025 02:54:06.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[29Aug2025 02:54:16.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[29Aug2025 02:54:36.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=688, y=26, z=867} BlockPos{x=688, y=27, z=867}
+[29Aug2025 02:55:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Summoned new Guardian]
+[29Aug2025 02:56:17.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Summoned new Guardian]
+[29Aug2025 02:57:35.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 02:57:35.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:58:40.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[29Aug2025 02:59:03.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Summoned new Guardian]
+[29Aug2025 02:59:17.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[29Aug2025 02:59:21.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Summoned new Guardian]
+[29Aug2025 02:59:30.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Summoned new Guardian]
+[29Aug2025 02:59:46.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[29Aug2025 02:59:59.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[29Aug2025 03:00:42.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -709.5495342062252,0.5,-1945.877551638995
+[29Aug2025 03:00:59.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Summoned new Guardian]
+[29Aug2025 03:01:37.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -500.3817186179714,44.5,-185.49525435047212
+[29Aug2025 03:02:35.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 03:02:35.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 03:03:45.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 502.6306922542816,-44.87631454238033,186.26249998807907
+[29Aug2025 03:05:00.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[29Aug2025 03:05:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[29Aug2025 03:07:35.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 03:07:35.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
