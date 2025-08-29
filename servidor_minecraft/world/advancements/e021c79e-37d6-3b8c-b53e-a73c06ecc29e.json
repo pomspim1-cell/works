@@ -8648,6 +8648,12 @@
     },
     "done": true
   },
+  "mekanism:modification_station": {
+    "criteria": {
+      "modification_station": "2025-08-29 03:24:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
     "criteria": {
       "has_item": "2025-08-29 02:15:09 +0000"
