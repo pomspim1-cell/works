@@ -8576,6 +8576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
     "criteria": {
       "has_catalyzing_gland": "2025-08-29 01:53:25 +0000"
@@ -8591,6 +8597,24 @@
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-08-29 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-29 05:05:14 +0000"
     },
     "done": true
   },
@@ -8624,6 +8648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-08-29 03:15:19 +0000"
@@ -8654,6 +8684,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
     "criteria": {
       "has_item": "2025-08-29 02:15:09 +0000"
@@ -8663,6 +8699,12 @@
   "reliquary:recipes/misc/uncrafting/ghast_tear": {
     "criteria": {
       "has_catalyzing_gland": "2025-08-29 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-08-29 05:05:14 +0000"
     },
     "done": true
   },
@@ -8684,9 +8726,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-29 05:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-08-29 02:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-29 05:05:14 +0000"
     },
     "done": true
   },
@@ -8699,6 +8759,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-29 02:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-29 05:05:14 +0000"
     },
     "done": true
   },
