@@ -12,3 +12,15 @@
 [29Aug2025 01:40:19.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=16, z=-145} BlockPos{x=1, y=14, z=-143}
 [29Aug2025 01:40:20.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4, y=17, z=-144} BlockPos{x=-4, y=17, z=-145}
 [29Aug2025 01:46:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Wheels of Destruction]
+[29Aug2025 01:58:35.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 502.5998757399466,-46.360057573942,185.17350743791167
+[29Aug2025 01:58:55.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -365.0,-78.0,-499.0
+[29Aug2025 01:59:33.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Melosito_Neo: Location (-585.5077590346336, 117.11292958259583, -1254.625) too far away from hit block BlockPos{x=-586, y=118, z=-1256}.
+[29Aug2025 01:59:34.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Melosito_Neo: Location (-585.526641368866, 116.75, -1254.6252406835556) too far away from hit block BlockPos{x=-586, y=118, z=-1256}.
+[29Aug2025 02:07:03.259] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 16534934: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[29Aug2025 02:07:06.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[29Aug2025 02:07:08.922] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 16534934: RandomSpreadSearchWorker succeeded with 2480 radius, 44 samples
+[29Aug2025 02:07:28.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -403.0,24.0,-277.0
+[29Aug2025 02:07:32.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 502.0,-44.0,186.0
+[29Aug2025 02:13:12.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
+[29Aug2025 02:17:35.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[29Aug2025 02:17:48.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
