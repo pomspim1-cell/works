@@ -8522,12 +8522,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-08-29 05:17:35 +0000"
-    },
-    "done": false
-  },
   "tconstruct:recipes/misc/common/puny_smelting": {
     "criteria": {
       "has_item": "2025-08-29 02:15:09 +0000"
@@ -8567,6 +8561,12 @@
   "create:chute": {
     "criteria": {
       "0": "2025-08-29 03:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-08-29 05:17:36 +0000"
     },
     "done": true
   },
@@ -8624,6 +8624,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-29 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-29 05:17:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-08-29 05:05:14 +0000"
@@ -8639,6 +8651,12 @@
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2025-08-29 02:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-08-29 05:17:36 +0000"
     },
     "done": true
   },
@@ -8720,6 +8738,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-08-29 05:17:36 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/ghast_tear": {
     "criteria": {
       "has_catalyzing_gland": "2025-08-29 01:53:25 +0000"
@@ -8744,6 +8768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-29 05:17:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-08-29 02:51:55 +0000"
@@ -8762,6 +8792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-08-29 05:17:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-08-29 05:05:14 +0000"
@@ -8771,6 +8807,12 @@
   "minecraft:recipes/building_blocks/dye_light_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-08-29 05:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-08-29 05:17:36 +0000"
     },
     "done": true
   },
