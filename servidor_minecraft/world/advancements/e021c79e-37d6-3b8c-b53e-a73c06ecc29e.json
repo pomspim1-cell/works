@@ -9346,5 +9346,11 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/sand_casting": {
+    "criteria": {
+      "crafted_cast": "2025-08-30 08:14:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
