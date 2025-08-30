@@ -9334,11 +9334,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "apotheosis:affix/gem": {
     "criteria": {
-      "requirement": "2025-08-30 08:02:29 +0000"
+      "gem": "2025-08-30 08:08:56 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-08-30 08:08:56 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -1163,3 +1163,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [30Aug2025 07:54:50.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 484.66343013764185,-45.49151744688402,170.1949763475002
 [30Aug2025 07:55:31.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 486.9442247144391,-46.00496174387061,167.10429121512675
 [30Aug2025 08:01:30.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 17.47620159852059,1.5,16.42389474171864
+[30Aug2025 08:08:56.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Far From Perfect]
+[30Aug2025 08:08:56.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Not a Diamond]
