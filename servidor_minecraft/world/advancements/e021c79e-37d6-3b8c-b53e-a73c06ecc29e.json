@@ -9352,9 +9352,45 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-09-01 05:06:34 +0000"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/materials/cardredstone": {
+    "criteria": {
+      "has_basic_card": "2025-09-01 05:01:17 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/string": {
     "criteria": {
       "has_chelicerae": "2025-09-01 04:37:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardcrafting": {
+    "criteria": {
+      "has_basic_card": "2025-09-01 05:01:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardvoid": {
+    "criteria": {
+      "has_basic_card": "2025-09-01 05:01:17 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp_upgrade": {
+    "criteria": {
+      "has_item": "2025-09-01 05:01:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardcapacity": {
+    "criteria": {
+      "has_basic_card": "2025-09-01 05:01:17 +0000"
     },
     "done": true
   },
