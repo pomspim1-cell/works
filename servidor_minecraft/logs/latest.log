@@ -1305,3 +1305,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [01Sep2025 04:12:46.745] [Server thread/INFO] [Jade/]: Syncing config to Melosito_Neo (e021c79e-37d6-3b8c-b53e-a73c06ecc29e)
 [01Sep2025 04:12:46.745] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
 [01Sep2025 05:04:50.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -8.933320029917468,7.5,-12.715916070305866
+[01Sep2025 05:28:21.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 9.0,-7.0,13.0
+[01Sep2025 05:28:25.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/22968, l='ServerLevel[world]', x=-116.56, y=88.25, z=-1154.65] died: Honeyed Archer suffocated in a wall
