@@ -9352,11 +9352,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "reliquary:recipes/misc/uncrafting/string": {
     "criteria": {
-      "requirement": "2025-09-01 04:16:34 +0000"
+      "has_chelicerae": "2025-09-01 04:37:36 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/spider_eye": {
+    "criteria": {
+      "has_chelicerae": "2025-09-01 04:37:36 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
