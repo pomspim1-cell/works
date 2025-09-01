@@ -9352,6 +9352,12 @@
     },
     "done": true
   },
+  "expatternprovider:recipes/misc/precise_storage_bus": {
+    "criteria": {
+      "has_item": "2025-09-01 06:02:57 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/materials/cardredstone": {
     "criteria": {
       "has_basic_card": "2025-09-01 05:01:17 +0000"
