@@ -9370,9 +9370,21 @@
     },
     "done": true
   },
+  "expatternprovider:recipes/misc/water_cell": {
+    "criteria": {
+      "has_item": "2025-09-01 05:31:54 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/materials/cardvoid": {
     "criteria": {
       "has_basic_card": "2025-09-01 05:01:17 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/cobblestone_cell": {
+    "criteria": {
+      "has_item": "2025-09-01 05:31:54 +0000"
     },
     "done": true
   },
